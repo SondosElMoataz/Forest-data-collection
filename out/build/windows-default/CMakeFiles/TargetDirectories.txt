@@ -1,0 +1,11 @@
+C:/Users/HP/source/repos/client2/out/build/windows-default/CMakeFiles/edit_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/client2/CMakeFiles/client2.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/client2/CMakeFiles/edit_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/client2/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/server2/CMakeFiles/edit_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/server2/CMakeFiles/server2.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/server2/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/Tests/CMakeFiles/edit_cache.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/Tests/CMakeFiles/client2_tst.dir
+C:/Users/HP/source/repos/client2/out/build/windows-default/Tests/CMakeFiles/rebuild_cache.dir

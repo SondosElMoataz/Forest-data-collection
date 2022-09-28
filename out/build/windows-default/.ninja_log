@@ -1,0 +1,9 @@
+# ninja log v5
+2	2743	6861001531882085	client2/CMakeFiles/client2.dir/client2.cpp.obj	6b23803ba35dbf9f
+2744	3914	6861001531882085	client2/client2.exe	feab959a8e530497
+1	2029	6860975430862483	server2/CMakeFiles/server2.dir/server2.cpp.obj	39272c09e1a5ec19
+2029	5298	6860975451807162	server2/server2.exe	8611d314194bd705
+2744	3914	6861001531882085	client2/client2.lib	feab959a8e530497
+0	39	0	clean	9992afb1f91dc381
+1	2626	6861047066440169	Tests/CMakeFiles/client2_tst.dir/clientFunTesting.cpp.obj	61bb6e98d29c7ff3
+1	2540	6861048003017962	Tests/CMakeFiles/client2_tst.dir/clientFunTesting.cpp.obj	61bb6e98d29c7ff3

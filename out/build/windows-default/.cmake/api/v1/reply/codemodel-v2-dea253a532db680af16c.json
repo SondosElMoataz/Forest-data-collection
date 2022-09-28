@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "client2",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "client2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "server2",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "server2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Tests",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tests",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "client2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "client2::@ec1f711ca6445b3171cc",
+					"jsonFile" : "target-client2-Debug-a5d08c536d9656c34dad.json",
+					"name" : "client2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "client2_tst::@3e3005ae7443f751ac85",
+					"jsonFile" : "target-client2_tst-Debug-e4b7915d2abc00da5b8f.json",
+					"name" : "client2_tst",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "server2::@106f2b4db8600b16c293",
+					"jsonFile" : "target-server2-Debug-654934a5c6ece67ec0dd.json",
+					"name" : "server2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/source/repos/client2/out/build/windows-default",
+		"source" : "C:/Users/HP/source/repos/client2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
